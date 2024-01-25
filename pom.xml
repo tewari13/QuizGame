@@ -11,5 +11,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>miniproject.quizgame.QuizGame</exec.mainClass>
     </properties>
-    <name>Quiz Game With Timer</name>
+    <name>Quiz Game</name>
 </project>

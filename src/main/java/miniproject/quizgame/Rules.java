@@ -21,7 +21,7 @@ public class Rules extends JFrame implements ActionListener{
         getContentPane().setBackground(new Color(255, 204, 204));
         setLayout(null);
         
-        JLabel heading = new JLabel("Welcome to the Innovative Minds, " +name);
+        JLabel heading = new JLabel("Welcome to the Trivia Titans, " +name);
         heading.setBounds(0, 50, 900, 30);
         heading.setFont(new Font("Sitka Text", 1, 28));
         heading.setForeground(new Color(204, 0, 51));
